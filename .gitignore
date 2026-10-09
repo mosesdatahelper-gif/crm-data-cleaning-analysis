@@ -1,0 +1,12 @@
+# CRM customer data — keep private
+02_Data/
+
+# Archived raw data — keep private
+06_Archive/
+
+# Jupyter temporary files
+03_Code/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
